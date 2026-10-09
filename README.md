@@ -64,7 +64,6 @@ Git, GitHub, VS Code, Android Studio
 ## 🌐 Connect With Me
 
 * 🔗 LinkedIn: https://linkedin.com/in/praveen-r5
-* 💻 Portfolio: https://portfoliowebsite-phi-eight.vercel.app
 
 ---
 
